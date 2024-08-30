@@ -34,7 +34,7 @@ This project demonstrates how to optimize Docker images using multi-stage builds
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/phsinghka/docker-practice/10_multi_stage_build.git
+git clone https://github.com/phsinghka/docker-practice.git
 cd 10_multi_stage_build
 ```
 
