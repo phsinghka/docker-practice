@@ -15,6 +15,7 @@ This project demonstrates the use of Docker Compose to manage a multi-container 
 │       └── index.html
 ├── docker-compose.yml
 └── README.md
+```
 
 ### Web Application
 
